@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/to-do-list/bin/Debug/netcoreapp1.1/world.deps.json
+/Users/Guest/Desktop/to-do-list/bin/Debug/netcoreapp1.1/world.runtimeconfig.json
+/Users/Guest/Desktop/to-do-list/bin/Debug/netcoreapp1.1/world.runtimeconfig.dev.json
+/Users/Guest/Desktop/to-do-list/obj/Debug/netcoreapp1.1/world.AssemblyInfo.cs
+C:\Users\XonS\desktop\world\bin\Debug\netcoreapp1.1\world.deps.json
+C:\Users\XonS\desktop\world\bin\Debug\netcoreapp1.1\world.runtimeconfig.json
+C:\Users\XonS\desktop\world\bin\Debug\netcoreapp1.1\world.runtimeconfig.dev.json
+C:\Users\XonS\desktop\world\obj\Debug\netcoreapp1.1\world.csproj.CoreCompileInputs.cache
+C:\Users\XonS\desktop\world\obj\Debug\netcoreapp1.1\world.AssemblyInfo.cs
+C:\Users\XonS\desktop\world\bin\Debug\netcoreapp1.1\world.dll
+C:\Users\XonS\desktop\world\bin\Debug\netcoreapp1.1\world.pdb
+C:\Users\XonS\desktop\world\obj\Debug\netcoreapp1.1\world.dll
+C:\Users\XonS\desktop\world\obj\Debug\netcoreapp1.1\world.pdb
